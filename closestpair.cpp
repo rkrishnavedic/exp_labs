@@ -54,7 +54,7 @@ int main(int argc, const char * argv[]) {
  //Praise to Lord
  //make cin/cout faster
  ios_base::sync_with_stdio(false);
- cin.tie(NULL);
+ cin.tie(NULL);cout.tie(NULL);
     
 // code now
    ll n;
