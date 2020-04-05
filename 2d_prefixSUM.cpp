@@ -1,4 +1,4 @@
-#define KR1shna
+//#define KR1shna
 
 #ifdef KR1shna
 #include "Header.h"
